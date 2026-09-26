@@ -1,12 +1,11 @@
 # Komputasi SD
 
-Repository ini berisi kode praktikum Komputasi Sistem Digital.
+Repository ini berisi kode praktikum Komputasi Sains Data.
 
 ## File yang Tersedia
 
 - `mahasiswa.py` / `mahasiswa.R` - Data frame mahasiswa dan perhitungan nilai akhir
 - `penjualan.py` / `penjualan.R` - Data frame penjualan dan total pendapatan
-- `inventori.py` / `inventori.R` - Data frame inventori dan perhitungan stok
 - `matriks.py` / `matriks.R` - Operasi matriks (perkalian, determinan, invers)
 
 ## Instalasi & Jalankan
